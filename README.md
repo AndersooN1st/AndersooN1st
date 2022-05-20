@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AndersooN1st
+- 👀 I’m interested in  jurisprudence
+- 🌱 I’m currently learning  in university
