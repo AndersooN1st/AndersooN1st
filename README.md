@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AndersooN1st
-- 👀 I’m interested in  jurisprudence
-- 🌱 I’m currently learning  in university
+- 👋 Hi, I'm @AndersooN1st
+- 👀 I'm interested in artificial intelligence technologies, and I'm a qualified criminal lawyer, but that doesn't stop me from improving my skills in the IT industry.
+- 🌱 I've recently completed a machine learning certification program at the university and became a full-fledged ML engineer.
